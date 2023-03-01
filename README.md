@@ -1,6 +1,3 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Mini Project Week 3 
 
-## References
-
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+Testing out using machine learning models in Rust, namely using the `linregress` crate to fit a linear regression model on dummy data. 
