@@ -1,3 +1,7 @@
+# Mini Project Week 9
+Randomly generates password with inputs for desired length and whether or not to include special characters or numbers. 
+
+
 # Mini Project Week 8
 
 Creates a calculator app that takes in two numbers and an arithmetic operator, and returns the result. 
