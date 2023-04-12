@@ -1,3 +1,6 @@
+# Mini Project Week 11
+Using the plotters crate to graph functions. Current code graphs the quadratic function 
+
 # Mini Project Week 10
 A command line tool that takes in a user passed String, and returns analysis on the sentiment of the text. The analysis consists of the overall sentiment score, as well as a list of the words considered as either positive or negative, provided that there are any. 
 
